@@ -8,7 +8,7 @@ git config --global user.email email@domain.com
 ## Remove all previous github credentials from credentials manager
 
 ```
-1. Search *credentials manager* in windows search bar
+1. Search credentials manager in windows search bar
 2. Then select windows credentials
 3. Then remove every github credentials from the list
 ```
